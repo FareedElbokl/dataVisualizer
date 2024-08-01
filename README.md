@@ -1,14 +1,14 @@
-#1042 Group project
+# 1042 Group project - Data Visualizing Software
 
 Date: Sunday, April 9, 2023
 Contact: Fareed El Bokl - fareed.elbokl@gmail.com
 Software: Student Data Visualizing Tool V1.0
 
-##Description
+## Description
 
 Software designed to extract and manipulate Data from text/csv files. Data can be loaded from files, this data can then be sorted (or other tasks can be done) to the user's preference through an interactive user interface or a batch user interface. Data can also be loaded from a file then graphed as a histogram or through obtaining the equation of the line based on the data.
 
-##Dependencies
+## Dependencies
 
 Check that the latest version of Python is installed, if not, install it through pythons website https://www.python.org/. 
 
@@ -18,7 +18,7 @@ Installing matplotlib and numpy in the terminal:
 C:> python -m pip install matplotlib
 C:> python -m pip install numpy
 
-##installation
+## Installation
 
 An integrated development environment (IDE) that supports python is required.
 Wing IDE is a recommended example.
@@ -30,18 +30,18 @@ The user should have a text/csv file with data that they wish to analyze/process
 4. Run the program in the python console, you should see the interface in the python console and be prompted to either enter a file name or a command (depending on your choice of user interface).
 
 
-##Usage
+## Usage
 
 Refer to user video.
 
-##Credits
+## Credits
 
 /Fareed El Bokl - load_data, student_age_list, test_return_list, sort_students_age_bubble, sort, Batch User interface (script, not a function)
 /Ravel Argon - student_failures_list, test_return_correct_dict_inside_list, sort_students_g_avg_insertion, text user interface (script, not a function)
 /Jonathan DeLeavey - student_health_list, test_add_average, sort_students_failures_bubble, histogram, 
 /Bogdan Price - student_school_list, test_return_list_correct_lenght, sort_students_time_selection, curve_fit
 
-##License
+## License
 
 MIT License
 
